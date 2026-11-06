@@ -1,0 +1,14 @@
+Framework/Corne42/README.md
+  h_39ce90a04346de 13-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "42887e3edcca5b0db487bdb98205c49aacc7de60",
+  "prompts": {},
+  "humans": {
+    "h_39ce90a04346de": {
+      "author": "vcombey <vincent.combey@gmail.com>"
+    }
+  }
+}
